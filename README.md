@@ -2,7 +2,7 @@
 - 👀 I’m interested in software web developing and accomplish a project for safety measures
 - 🌱 I’m currently learning projects based on web developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail: nellurikushal@gmail.com
+- 📫 How to reach me mail: nellurikushal1@gmail.com
 
 <!---
 kushal1204/kushal1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
